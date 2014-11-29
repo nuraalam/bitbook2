@@ -1,0 +1,23 @@
+﻿@using HelloWorldInASPDOTNetMVC.Models
+@model IEnumerable<HelloWorldInASPDOTNetMVC.Models.PostComment>
+
+@{
+    
+}
+
+@{
+    foreach (PostComment aPost in Model)
+    {
+        <p>@aPost.Message</p>
+        <p>@aPost.PostDate</p>
+    }
+}
+
+<form method="POST">
+    <fieldset>
+        <input type="text" placeholder="What's your mind'" name="Message">
+        <br />
+        <button type="submit" class="btn">PostCommnet</button>
+
+    </fieldset>
+</form>

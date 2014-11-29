@@ -1,0 +1,218 @@
+E:\OOP0149-Evening\14-Nov-2014\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\bin\HelloWorldInASPDOTNetMVC.dll.config
+E:\OOP0149-Evening\14-Nov-2014\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\bin\HelloWorldInASPDOTNetMVC.dll
+E:\OOP0149-Evening\14-Nov-2014\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\bin\HelloWorldInASPDOTNetMVC.pdb
+E:\OOP0149-Evening\14-Nov-2014\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\bin\Antlr3.Runtime.dll
+E:\OOP0149-Evening\14-Nov-2014\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\bin\EntityFramework.dll
+E:\OOP0149-Evening\14-Nov-2014\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\bin\EntityFramework.SqlServer.dll
+E:\OOP0149-Evening\14-Nov-2014\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\bin\Microsoft.AspNet.Identity.Core.dll
+E:\OOP0149-Evening\14-Nov-2014\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\OOP0149-Evening\14-Nov-2014\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\OOP0149-Evening\14-Nov-2014\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\bin\Microsoft.Owin.dll
+E:\OOP0149-Evening\14-Nov-2014\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\OOP0149-Evening\14-Nov-2014\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\bin\Microsoft.Owin.Security.Cookies.dll
+E:\OOP0149-Evening\14-Nov-2014\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\bin\Microsoft.Owin.Security.dll
+E:\OOP0149-Evening\14-Nov-2014\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\bin\Microsoft.Owin.Security.Facebook.dll
+E:\OOP0149-Evening\14-Nov-2014\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\bin\Microsoft.Owin.Security.Google.dll
+E:\OOP0149-Evening\14-Nov-2014\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\OOP0149-Evening\14-Nov-2014\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\bin\Microsoft.Owin.Security.OAuth.dll
+E:\OOP0149-Evening\14-Nov-2014\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\bin\Microsoft.Owin.Security.Twitter.dll
+E:\OOP0149-Evening\14-Nov-2014\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\bin\Microsoft.Web.Infrastructure.dll
+E:\OOP0149-Evening\14-Nov-2014\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\bin\Newtonsoft.Json.dll
+E:\OOP0149-Evening\14-Nov-2014\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\bin\Owin.dll
+E:\OOP0149-Evening\14-Nov-2014\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\bin\System.Web.Helpers.dll
+E:\OOP0149-Evening\14-Nov-2014\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\bin\System.Web.Mvc.dll
+E:\OOP0149-Evening\14-Nov-2014\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\bin\System.Web.Optimization.dll
+E:\OOP0149-Evening\14-Nov-2014\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\bin\System.Web.Razor.dll
+E:\OOP0149-Evening\14-Nov-2014\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\bin\System.Web.WebPages.Deployment.dll
+E:\OOP0149-Evening\14-Nov-2014\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\bin\System.Web.WebPages.dll
+E:\OOP0149-Evening\14-Nov-2014\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\bin\System.Web.WebPages.Razor.dll
+E:\OOP0149-Evening\14-Nov-2014\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\bin\WebGrease.dll
+E:\OOP0149-Evening\14-Nov-2014\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\bin\System.Web.Helpers.xml
+E:\OOP0149-Evening\14-Nov-2014\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\bin\System.Web.Mvc.xml
+E:\OOP0149-Evening\14-Nov-2014\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\bin\System.Web.Optimization.xml
+E:\OOP0149-Evening\14-Nov-2014\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\bin\System.Web.Razor.xml
+E:\OOP0149-Evening\14-Nov-2014\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\bin\System.Web.WebPages.xml
+E:\OOP0149-Evening\14-Nov-2014\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\bin\System.Web.WebPages.Deployment.xml
+E:\OOP0149-Evening\14-Nov-2014\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\bin\System.Web.WebPages.Razor.xml
+E:\OOP0149-Evening\14-Nov-2014\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\bin\Newtonsoft.Json.xml
+E:\OOP0149-Evening\14-Nov-2014\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\bin\Antlr3.Runtime.pdb
+E:\OOP0149-Evening\14-Nov-2014\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\bin\EntityFramework.xml
+E:\OOP0149-Evening\14-Nov-2014\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\bin\EntityFramework.SqlServer.xml
+E:\OOP0149-Evening\14-Nov-2014\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\bin\Microsoft.AspNet.Identity.Core.xml
+E:\OOP0149-Evening\14-Nov-2014\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\OOP0149-Evening\14-Nov-2014\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\OOP0149-Evening\14-Nov-2014\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\bin\Microsoft.Owin.xml
+E:\OOP0149-Evening\14-Nov-2014\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\OOP0149-Evening\14-Nov-2014\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\bin\Microsoft.Owin.Security.xml
+E:\OOP0149-Evening\14-Nov-2014\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\bin\Microsoft.Owin.Security.Facebook.xml
+E:\OOP0149-Evening\14-Nov-2014\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\bin\Microsoft.Owin.Security.Cookies.xml
+E:\OOP0149-Evening\14-Nov-2014\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\bin\Microsoft.Owin.Security.OAuth.xml
+E:\OOP0149-Evening\14-Nov-2014\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\bin\Microsoft.Owin.Security.Google.xml
+E:\OOP0149-Evening\14-Nov-2014\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\bin\Microsoft.Owin.Security.Twitter.xml
+E:\OOP0149-Evening\14-Nov-2014\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\OOP0149-Evening\14-Nov-2014\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\obj\Debug\HelloWorldInASPDOTNetMVC.csprojResolveAssemblyReference.cache
+E:\OOP0149-Evening\14-Nov-2014\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\obj\Debug\HelloWorldInASPDOTNetMVC.dll
+E:\OOP0149-Evening\14-Nov-2014\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\obj\Debug\HelloWorldInASPDOTNetMVC.pdb
+C:\Users\Hafiz\Desktop\Bassis Advance\14-Nov-2014\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\bin\HelloWorldInASPDOTNetMVC.dll.config
+C:\Users\Hafiz\Desktop\Bassis Advance\14-Nov-2014\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\bin\HelloWorldInASPDOTNetMVC.dll
+C:\Users\Hafiz\Desktop\Bassis Advance\14-Nov-2014\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\bin\HelloWorldInASPDOTNetMVC.pdb
+C:\Users\Hafiz\Desktop\Bassis Advance\14-Nov-2014\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\bin\Antlr3.Runtime.dll
+C:\Users\Hafiz\Desktop\Bassis Advance\14-Nov-2014\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\bin\EntityFramework.dll
+C:\Users\Hafiz\Desktop\Bassis Advance\14-Nov-2014\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\bin\EntityFramework.SqlServer.dll
+C:\Users\Hafiz\Desktop\Bassis Advance\14-Nov-2014\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Hafiz\Desktop\Bassis Advance\14-Nov-2014\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Hafiz\Desktop\Bassis Advance\14-Nov-2014\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Hafiz\Desktop\Bassis Advance\14-Nov-2014\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\bin\Microsoft.Owin.dll
+C:\Users\Hafiz\Desktop\Bassis Advance\14-Nov-2014\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Hafiz\Desktop\Bassis Advance\14-Nov-2014\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Hafiz\Desktop\Bassis Advance\14-Nov-2014\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\bin\Microsoft.Owin.Security.dll
+C:\Users\Hafiz\Desktop\Bassis Advance\14-Nov-2014\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Hafiz\Desktop\Bassis Advance\14-Nov-2014\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Hafiz\Desktop\Bassis Advance\14-Nov-2014\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Hafiz\Desktop\Bassis Advance\14-Nov-2014\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Hafiz\Desktop\Bassis Advance\14-Nov-2014\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Hafiz\Desktop\Bassis Advance\14-Nov-2014\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Hafiz\Desktop\Bassis Advance\14-Nov-2014\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\bin\Newtonsoft.Json.dll
+C:\Users\Hafiz\Desktop\Bassis Advance\14-Nov-2014\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\bin\Owin.dll
+C:\Users\Hafiz\Desktop\Bassis Advance\14-Nov-2014\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\bin\System.Web.Helpers.dll
+C:\Users\Hafiz\Desktop\Bassis Advance\14-Nov-2014\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\bin\System.Web.Mvc.dll
+C:\Users\Hafiz\Desktop\Bassis Advance\14-Nov-2014\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\bin\System.Web.Optimization.dll
+C:\Users\Hafiz\Desktop\Bassis Advance\14-Nov-2014\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\bin\System.Web.Razor.dll
+C:\Users\Hafiz\Desktop\Bassis Advance\14-Nov-2014\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Hafiz\Desktop\Bassis Advance\14-Nov-2014\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\bin\System.Web.WebPages.dll
+C:\Users\Hafiz\Desktop\Bassis Advance\14-Nov-2014\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\Hafiz\Desktop\Bassis Advance\14-Nov-2014\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\bin\WebGrease.dll
+C:\Users\Hafiz\Desktop\Bassis Advance\14-Nov-2014\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\bin\System.Web.Helpers.xml
+C:\Users\Hafiz\Desktop\Bassis Advance\14-Nov-2014\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\bin\System.Web.Mvc.xml
+C:\Users\Hafiz\Desktop\Bassis Advance\14-Nov-2014\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\bin\System.Web.Optimization.xml
+C:\Users\Hafiz\Desktop\Bassis Advance\14-Nov-2014\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\bin\System.Web.Razor.xml
+C:\Users\Hafiz\Desktop\Bassis Advance\14-Nov-2014\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\bin\System.Web.WebPages.xml
+C:\Users\Hafiz\Desktop\Bassis Advance\14-Nov-2014\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Hafiz\Desktop\Bassis Advance\14-Nov-2014\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\Hafiz\Desktop\Bassis Advance\14-Nov-2014\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\bin\Newtonsoft.Json.xml
+C:\Users\Hafiz\Desktop\Bassis Advance\14-Nov-2014\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\bin\Antlr3.Runtime.pdb
+C:\Users\Hafiz\Desktop\Bassis Advance\14-Nov-2014\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\bin\EntityFramework.xml
+C:\Users\Hafiz\Desktop\Bassis Advance\14-Nov-2014\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\bin\EntityFramework.SqlServer.xml
+C:\Users\Hafiz\Desktop\Bassis Advance\14-Nov-2014\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Hafiz\Desktop\Bassis Advance\14-Nov-2014\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Hafiz\Desktop\Bassis Advance\14-Nov-2014\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Hafiz\Desktop\Bassis Advance\14-Nov-2014\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\bin\Microsoft.Owin.xml
+C:\Users\Hafiz\Desktop\Bassis Advance\14-Nov-2014\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Hafiz\Desktop\Bassis Advance\14-Nov-2014\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\bin\Microsoft.Owin.Security.xml
+C:\Users\Hafiz\Desktop\Bassis Advance\14-Nov-2014\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Hafiz\Desktop\Bassis Advance\14-Nov-2014\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Hafiz\Desktop\Bassis Advance\14-Nov-2014\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Hafiz\Desktop\Bassis Advance\14-Nov-2014\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Hafiz\Desktop\Bassis Advance\14-Nov-2014\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Hafiz\Desktop\Bassis Advance\14-Nov-2014\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Hafiz\Desktop\Bassis Advance\14-Nov-2014\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\obj\Debug\HelloWorldInASPDOTNetMVC.dll
+C:\Users\Hafiz\Desktop\Bassis Advance\14-Nov-2014\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\obj\Debug\HelloWorldInASPDOTNetMVC.pdb
+C:\Users\Hafiz\Desktop\BitBook MVC\First Version\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\bin\HelloWorldInASPDOTNetMVC.dll.config
+C:\Users\Hafiz\Desktop\BitBook MVC\First Version\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\bin\HelloWorldInASPDOTNetMVC.dll
+C:\Users\Hafiz\Desktop\BitBook MVC\First Version\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\bin\HelloWorldInASPDOTNetMVC.pdb
+C:\Users\Hafiz\Desktop\BitBook MVC\First Version\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\bin\Antlr3.Runtime.dll
+C:\Users\Hafiz\Desktop\BitBook MVC\First Version\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\bin\EntityFramework.dll
+C:\Users\Hafiz\Desktop\BitBook MVC\First Version\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\bin\EntityFramework.SqlServer.dll
+C:\Users\Hafiz\Desktop\BitBook MVC\First Version\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Hafiz\Desktop\BitBook MVC\First Version\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Hafiz\Desktop\BitBook MVC\First Version\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Hafiz\Desktop\BitBook MVC\First Version\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\bin\Microsoft.Owin.dll
+C:\Users\Hafiz\Desktop\BitBook MVC\First Version\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Hafiz\Desktop\BitBook MVC\First Version\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Hafiz\Desktop\BitBook MVC\First Version\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\bin\Microsoft.Owin.Security.dll
+C:\Users\Hafiz\Desktop\BitBook MVC\First Version\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Hafiz\Desktop\BitBook MVC\First Version\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Hafiz\Desktop\BitBook MVC\First Version\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Hafiz\Desktop\BitBook MVC\First Version\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Hafiz\Desktop\BitBook MVC\First Version\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Hafiz\Desktop\BitBook MVC\First Version\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Hafiz\Desktop\BitBook MVC\First Version\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\bin\Newtonsoft.Json.dll
+C:\Users\Hafiz\Desktop\BitBook MVC\First Version\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\bin\Owin.dll
+C:\Users\Hafiz\Desktop\BitBook MVC\First Version\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\bin\System.Web.Helpers.dll
+C:\Users\Hafiz\Desktop\BitBook MVC\First Version\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\bin\System.Web.Mvc.dll
+C:\Users\Hafiz\Desktop\BitBook MVC\First Version\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\bin\System.Web.Optimization.dll
+C:\Users\Hafiz\Desktop\BitBook MVC\First Version\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\bin\System.Web.Razor.dll
+C:\Users\Hafiz\Desktop\BitBook MVC\First Version\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Hafiz\Desktop\BitBook MVC\First Version\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\bin\System.Web.WebPages.dll
+C:\Users\Hafiz\Desktop\BitBook MVC\First Version\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\Hafiz\Desktop\BitBook MVC\First Version\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\bin\WebGrease.dll
+C:\Users\Hafiz\Desktop\BitBook MVC\First Version\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\bin\System.Web.Helpers.xml
+C:\Users\Hafiz\Desktop\BitBook MVC\First Version\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\bin\System.Web.Mvc.xml
+C:\Users\Hafiz\Desktop\BitBook MVC\First Version\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\bin\System.Web.Optimization.xml
+C:\Users\Hafiz\Desktop\BitBook MVC\First Version\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\bin\System.Web.Razor.xml
+C:\Users\Hafiz\Desktop\BitBook MVC\First Version\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\bin\System.Web.WebPages.xml
+C:\Users\Hafiz\Desktop\BitBook MVC\First Version\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Hafiz\Desktop\BitBook MVC\First Version\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\Hafiz\Desktop\BitBook MVC\First Version\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\bin\Newtonsoft.Json.xml
+C:\Users\Hafiz\Desktop\BitBook MVC\First Version\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\bin\Antlr3.Runtime.pdb
+C:\Users\Hafiz\Desktop\BitBook MVC\First Version\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\bin\EntityFramework.xml
+C:\Users\Hafiz\Desktop\BitBook MVC\First Version\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\bin\EntityFramework.SqlServer.xml
+C:\Users\Hafiz\Desktop\BitBook MVC\First Version\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Hafiz\Desktop\BitBook MVC\First Version\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Hafiz\Desktop\BitBook MVC\First Version\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Hafiz\Desktop\BitBook MVC\First Version\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\bin\Microsoft.Owin.xml
+C:\Users\Hafiz\Desktop\BitBook MVC\First Version\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Hafiz\Desktop\BitBook MVC\First Version\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\bin\Microsoft.Owin.Security.xml
+C:\Users\Hafiz\Desktop\BitBook MVC\First Version\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Hafiz\Desktop\BitBook MVC\First Version\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Hafiz\Desktop\BitBook MVC\First Version\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Hafiz\Desktop\BitBook MVC\First Version\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Hafiz\Desktop\BitBook MVC\First Version\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Hafiz\Desktop\BitBook MVC\First Version\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Hafiz\Desktop\BitBook MVC\First Version\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\obj\Debug\HelloWorldInASPDOTNetMVC.dll
+C:\Users\Hafiz\Desktop\BitBook MVC\First Version\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\obj\Debug\HelloWorldInASPDOTNetMVC.pdb
+C:\Users\PC21\Desktop\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\bin\HelloWorldInASPDOTNetMVC.dll.config
+C:\Users\PC21\Desktop\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\bin\HelloWorldInASPDOTNetMVC.dll
+C:\Users\PC21\Desktop\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\bin\HelloWorldInASPDOTNetMVC.pdb
+C:\Users\PC21\Desktop\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\bin\Antlr3.Runtime.dll
+C:\Users\PC21\Desktop\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\bin\EntityFramework.dll
+C:\Users\PC21\Desktop\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\bin\EntityFramework.SqlServer.dll
+C:\Users\PC21\Desktop\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\PC21\Desktop\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\PC21\Desktop\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\PC21\Desktop\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\bin\Microsoft.Owin.dll
+C:\Users\PC21\Desktop\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\PC21\Desktop\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\PC21\Desktop\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\bin\Microsoft.Owin.Security.dll
+C:\Users\PC21\Desktop\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\PC21\Desktop\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\PC21\Desktop\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\PC21\Desktop\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\PC21\Desktop\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\PC21\Desktop\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\PC21\Desktop\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\bin\Newtonsoft.Json.dll
+C:\Users\PC21\Desktop\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\bin\Owin.dll
+C:\Users\PC21\Desktop\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\bin\System.Web.Helpers.dll
+C:\Users\PC21\Desktop\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\bin\System.Web.Mvc.dll
+C:\Users\PC21\Desktop\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\bin\System.Web.Optimization.dll
+C:\Users\PC21\Desktop\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\bin\System.Web.Razor.dll
+C:\Users\PC21\Desktop\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\PC21\Desktop\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\bin\System.Web.WebPages.dll
+C:\Users\PC21\Desktop\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\PC21\Desktop\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\bin\WebGrease.dll
+C:\Users\PC21\Desktop\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\bin\System.Web.Helpers.xml
+C:\Users\PC21\Desktop\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\bin\System.Web.Mvc.xml
+C:\Users\PC21\Desktop\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\bin\System.Web.Optimization.xml
+C:\Users\PC21\Desktop\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\bin\System.Web.Razor.xml
+C:\Users\PC21\Desktop\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\bin\System.Web.WebPages.xml
+C:\Users\PC21\Desktop\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\PC21\Desktop\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\PC21\Desktop\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\bin\Newtonsoft.Json.xml
+C:\Users\PC21\Desktop\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\bin\Antlr3.Runtime.pdb
+C:\Users\PC21\Desktop\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\bin\EntityFramework.xml
+C:\Users\PC21\Desktop\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\bin\EntityFramework.SqlServer.xml
+C:\Users\PC21\Desktop\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\PC21\Desktop\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\PC21\Desktop\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\PC21\Desktop\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\bin\Microsoft.Owin.xml
+C:\Users\PC21\Desktop\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\PC21\Desktop\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\bin\Microsoft.Owin.Security.xml
+C:\Users\PC21\Desktop\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\PC21\Desktop\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\PC21\Desktop\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\PC21\Desktop\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\PC21\Desktop\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\PC21\Desktop\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\PC21\Desktop\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\obj\Debug\HelloWorldInASPDOTNetMVC.csprojResolveAssemblyReference.cache
+C:\Users\PC21\Desktop\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\obj\Debug\HelloWorldInASPDOTNetMVC.dll
+C:\Users\PC21\Desktop\HelloWorldInASPDOTNetMVC\HelloWorldInASPDOTNetMVC\obj\Debug\HelloWorldInASPDOTNetMVC.pdb

@@ -1,0 +1,16 @@
+﻿
+@using HelloWorldInASPDOTNetMVC.Models
+@model List<HelloWorldInASPDOTNetMVC.Models.Student>
+<table>
+    @{
+        foreach (Student aStudent in Model)
+        {
+            <tr>
+                <td> @aStudent.Name</td>
+                <td> @aStudent.Email</td>
+                @*<td>@aStudent.LastPaymentAmount</td>*@
+            </tr>
+        }
+    }
+
+</table>

@@ -1,0 +1,18 @@
+﻿
+@*<form method="POST">
+    Name<input type="text" name="Name"/><br />
+    Email<input type="text" name="Email"/><br />
+    <input type="submit" value="saveButton" />
+</form>*@
+
+
+<form method="POST">
+    <fieldset>        
+        <label>Status</label>
+        <input type="text" placeholder="name" name="name">
+      <br/>
+       @* <input type="submit" value="saveButton" />*@
+        <button type="submit" class="btn">Post</button>
+        <p>@ViewBag.NameExit</p>
+    </fieldset>
+</form>

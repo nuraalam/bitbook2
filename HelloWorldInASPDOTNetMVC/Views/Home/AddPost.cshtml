@@ -1,0 +1,56 @@
+﻿
+@using HelloWorldInASPDOTNetMVC.Models
+@model IEnumerable<HelloWorldInASPDOTNetMVC.Models.Post>
+
+<form method="POST">
+    <fieldset><br/>
+        <label>Status</label>
+        
+        
+        <textarea  name="Message" placeholder="What's your mind'" rows="3" cols="250">   </textarea>
+
+        @*<input type="text"  name="Message">*@
+        <br />
+        <button type="submit" class="btn">Post</button>
+
+    </fieldset>
+</form>
+
+@{
+    foreach (Post aPost in Model)
+    {
+       
+        <p style="color: blueviolet">@aPost.Message Date:@aPost.PostDate</p>
+        foreach (PostComment aComment in aPost.APostComment)
+        {
+            <p style="color: skyblue">@aComment.Message Date:@aComment.PostDate</p>
+        }
+
+        
+      
+    
+    <form action="AddPostComment?PostId=@aPost.PostId"  method="POST">
+      
+        <fieldset>
+            <label>Comment</label>
+            <textarea name="Message" placeholder="What's your mind'" rows = "1"cols="60">   </textarea>
+            @*<input id="" type="text" placeholder="Comment here.....'" name="Message" >*@
+            <br />
+            <button type="submit" class="btn">PostComment</button>
+
+        </fieldset>
+    </form>
+   
+       
+    }
+        
+    }
+}
+
+
+
+
+
+
+
+

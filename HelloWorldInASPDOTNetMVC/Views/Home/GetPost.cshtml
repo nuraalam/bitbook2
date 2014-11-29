@@ -1,0 +1,14 @@
+﻿@using HelloWorldInASPDOTNetMVC.Models
+@model IEnumerable<HelloWorldInASPDOTNetMVC.Models.Post>
+<table>
+    @{
+        foreach (Post aPost in Model)
+        {
+            <tr>
+                <td> @aPost.Message</td>
+                <td> @aPost.PostDate</td>
+            </tr>
+        }
+    }
+
+</table>
