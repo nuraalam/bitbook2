@@ -12,7 +12,7 @@ namespace HelloWorldInASPDOTNetMVC.Models
     {
         public void SavePost(Post aPost)
         {
-            string connectionStrings = @"Server=BITM-401-PC21\SQLEXPRESS;Database=UniversityDB;Integrated security=True";
+            string connectionStrings = @"Server=RANA-PC\SQLEXPRESS;Database=UniversityDB;Integrated security=True";
             SqlConnection aConnection = new SqlConnection(connectionStrings);
             aConnection.Open();
             SqlCommand aCommand = new SqlCommand("Insert INTO Table_Post values('"+aPost.PostDate+"','" + aPost.Message + "')", aConnection);
@@ -27,7 +27,7 @@ namespace HelloWorldInASPDOTNetMVC.Models
             HomeController aController=new HomeController();
             List<Post> Posts = new List<Post>();
 
-            string connectionStrings = @"Server=BITM-401-PC21\SQLEXPRESS;Database=UniversityDB;Integrated security=True";
+            string connectionStrings = @"Server=RANA-PC\SQLEXPRESS;Database=UniversityDB;Integrated security=True";
             SqlConnection aConnection = new SqlConnection(connectionStrings);
             aConnection.Open();
             SqlCommand aCommand = new SqlCommand("SELECT*FROM Table_Post", aConnection);

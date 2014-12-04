@@ -10,7 +10,7 @@ namespace HelloWorldInASPDOTNetMVC.Models
     {
         public void SavePost(PostComment aPost)
         {
-            string connectionStrings = @"Server=BITM-401-PC21\SQLEXPRESS;Database=UniversityDB;Integrated security=True";
+            string connectionStrings = @"Server=RANA-PC\SQLEXPRESS;Database=UniversityDB;Integrated security=True";
             SqlConnection aConnection = new SqlConnection(connectionStrings);
             aConnection.Open();
             SqlCommand aCommand = new SqlCommand("Insert INTO Table_Comment values('" + aPost.PostDate + "','" + aPost.Message + "','"+aPost.PostId+"')", aConnection);
@@ -23,7 +23,7 @@ namespace HelloWorldInASPDOTNetMVC.Models
         {
             List<PostComment> Posts = new List<PostComment>();
 
-            string connectionStrings = @"Server=BITM-401-PC21\SQLEXPRESS;Database=UniversityDB;Integrated security=True";
+            string connectionStrings = @"Server=RANA-PC\SQLEXPRESS;Database=UniversityDB;Integrated security=True";
             SqlConnection aConnection = new SqlConnection(connectionStrings);
             aConnection.Open();
             SqlCommand aCommand = new SqlCommand("SELECT*FROM Table_Comment WHERE PostId="+post.PostId, aConnection);
